@@ -1,3 +1,5 @@
+Android Build https://build.appcenter.ms/v0.1/apps/fcc8fe74-a317-4d3a-a0d0-4e5cb5291f02/branches/master/badge
+
 # CodePushDemo
 
 One can directly run the demo. To configure the Codepush deployment key follow the steps
