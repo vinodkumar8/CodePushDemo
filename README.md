@@ -1,4 +1,4 @@
-Android Build https://build.appcenter.ms/v0.1/apps/fcc8fe74-a317-4d3a-a0d0-4e5cb5291f02/branches/master/badge
+Android Build [![Build status](https://build.appcenter.ms/v0.1/apps/fcc8fe74-a317-4d3a-a0d0-4e5cb5291f02/branches/master/badge)](https://appcenter.ms)
 
 # CodePushDemo
 
